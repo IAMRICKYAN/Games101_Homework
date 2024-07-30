@@ -1,0 +1,47 @@
+﻿  main.cpp
+D:\桌面\Assignment1\代码框架\main.cpp(27,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\main.cpp(47,29): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\main.cpp(50,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\main.cpp(52,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\main.cpp(54,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\main.cpp(63,37): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\main.cpp(64,34): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\main.cpp(65,41): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\main.cpp(109,55): warning C4305: “参数”: 从“double”到“float”截断
+D:\桌面\Assignment1\代码框架\main.cpp(125,55): warning C4305: “参数”: 从“double”到“float”截断
+  rasterizer.cpp
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(41,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(42,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(43,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(44,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(52,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(53,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(54,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(58,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(59,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(60,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(62,52): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(62,49): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(84,56): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(84,53): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(92,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(93,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(94,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(98,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(99,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(100,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(102,52): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(102,49): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(124,56): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(124,53): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(144,14): warning C4305: “初始化”: 从“double”到“float”截断
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(145,14): warning C4305: “初始化”: 从“double”到“float”截断
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(164,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(165,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\rasterizer.cpp(235,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+  Triangle.cpp
+D:\桌面\Assignment1\代码框架\Triangle.cpp(36,70): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\Triangle.cpp(36,53): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\桌面\Assignment1\代码框架\Triangle.cpp(36,36): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  正在生成代码...
+  pa1.vcxproj -> D:\OfficeWork\Project\C++\Games101\Games101_Homework\pa1\x64\Debug\pa1.exe
